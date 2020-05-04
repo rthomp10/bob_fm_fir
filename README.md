@@ -1,5 +1,5 @@
 # Hardware Accelerated Bob.FM FIR Filter
-An FIR filter designed to receive BOB.FM broadcast with the PYNQ-Z1 SoC FPGA board. 
+An FIR filter designed to receive BOB.FM broadcast with the PYNQ-Z1 SoC FPGA board. This project serves as a proof of concept and does not account for input and output buffers. It is simply a standalone filter. 
 
 ![Block Design](block_design.jpg)
 
