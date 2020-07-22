@@ -3,10 +3,6 @@ An FIR filter designed to receive BOB.FM broadcast with the PYNQ-Z1 SoC FPGA boa
 
 ![Block Design](block_design.jpg)
 
-## Getting Started
-
-Determine the parasitic elements of a crystal. These are usually found in the data sheets like [this one for Abracon's ABM13W](https://abracon.com/datasheets/ABM13W.pdf). 
-
 ## Prerequisites
 
 1. Jupyter Notebok 
